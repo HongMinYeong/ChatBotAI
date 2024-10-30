@@ -4,4 +4,6 @@
 1. 회원가입
 https://platform.openai.com/docs/overview
 
-2. payments  등록 부분에서 신용카드 안가져와서 실패 ! 
+2. payments  등록 
+
+3. API Key 발급 완료 
